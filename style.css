@@ -37,7 +37,9 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
-  height: 17vh;
+  /* height: 17vh; */
+  height: 10vh;
+  /* background-color: aqua; */
 }
 
 .nav-links {
@@ -391,7 +393,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  height: 50vh;
 }
 
 .contact-info-upper-container {
